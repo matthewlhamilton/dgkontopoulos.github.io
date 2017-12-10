@@ -1,17 +1,17 @@
 ---
-title: "<b>5\\.</b> 
+title: "<b>6\\.</b> 
 <u>Kontopoulos, D.-G.<sup><a title='Corresponding author'>✉</a></sup></u>, 
 García-Carreras, B., Sal, S., Smith, T.P., and Pawar, S. 
 (2017). **Use and misuse of temperature normalisation in meta-analyses 
 of thermal responses of biological traits.** 
 PeerJ Preprints 5:e3068v1. <img src='../images/preprint.png'>"
 collection: publications
-permalink: /publication/5_Use_and_misuse_of_temperature
+permalink: /publication/6_Use_and_misuse_of_temperature
 excerpt: '
-  [<span class="underline-on-hover" style="color:#FF6F6F">Abstract</span>](../publication/5_Use_and_misuse_of_temperature)
+  [<span class="underline-on-hover" style="color:#FF6F6F">Abstract</span>](../publication/6_Use_and_misuse_of_temperature)
 \| [<span class="underline-on-hover" style="color:#FF6F6F">Full text</span>](https://doi.org/10.7287/peerj.preprints.3068v1)
 \| [<span class="underline-on-hover" style="color:#FF6F6F">Source code</span>](https://github.com/dgkontopoulos/Kontopoulos_et_al_temperature_normalisation_2017)
-\| [<span class="underline-on-hover" style="color:#FF6F6F"><img src="../images/bibtex.svg">citation</span>](../bibtex/5_Use_and_misuse_of_temperature.bib)
+\| [<span class="underline-on-hover" style="color:#FF6F6F"><img src="../images/bibtex.svg">citation</span>](../bibtex/6_Use_and_misuse_of_temperature.bib)
 '
 ---
 
@@ -42,4 +42,4 @@ impact studies.
 
 [<span class="underline-on-hover" style="color:#FF6F6F">Full text</span>](https://doi.org/10.7287/peerj.preprints.3068v1)
 \| [<span class="underline-on-hover" style="color:#FF6F6F">Source code</span>](https://github.com/dgkontopoulos/Kontopoulos_et_al_temperature_normalisation_2017)
-\| [<span class="underline-on-hover" style="color:#FF6F6F"><img src="../images/bibtex.svg">citation</span>](../bibtex/5_Use_and_misuse_of_temperature.bib)
+\| [<span class="underline-on-hover" style="color:#FF6F6F"><img src="../images/bibtex.svg">citation</span>](../bibtex/6_Use_and_misuse_of_temperature.bib)

@@ -42,7 +42,7 @@ basic experience in mathematical modelling.
 
 <br><br>
 <b>Relevant publications:</b><br>
-* <a href='../publication/5_Use_and_misuse_of_temperature' 
+* <a href='../publication/6_Use_and_misuse_of_temperature' 
 style="color:#FF6F6F">Use and misuse of temperature normalisation in 
 meta-analyses of thermal responses of biological traits.</a>
 </font>
