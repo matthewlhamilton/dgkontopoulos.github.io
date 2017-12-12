@@ -1,7 +1,7 @@
 ---
 title: "<b>5\\.</b> 
 <u>Kontopoulos, D.-G.<sup><a title='Corresponding author'>✉</a></sup></u>, 
-Kontopoulou, T., Ho, H.-C., García-Carreras, B. 
+Kontopoulou, T., Ho, H.-C., and García-Carreras, B. 
 (2017). **Towards a theoretically informed policy against a rakghoul 
 plague outbreak.** 
 The Medical Journal of Australia 207(11):490-494. <img src='../images/open_access.png'>"
