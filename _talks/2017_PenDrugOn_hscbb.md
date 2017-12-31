@@ -1,7 +1,7 @@
 ---
 title: "<b>8\\.</b> <u>Kontopoulos, D.-G.</u>, 
 Papageorgiou, L., and Vlachakis, 
-D<sup><a title='Presenting author'>†</a></sup>. **PenDrugOn: A fully 
+D.<sup><a title='Presenting author'>†</a></sup> **PenDrugOn: A fully 
 automated platform for designing antibody drug conjugates.**"
 collection: talks
 type: "Poster presentation"
