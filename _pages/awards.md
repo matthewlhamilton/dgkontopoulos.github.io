@@ -23,3 +23,12 @@ Partnership from the <b>Natural Environment Research Council</b> (2015-2019).
 <b>1\.</b> Scholarship for 2013-2014 postgraduate education abroad (1st cycle) 
 from the <b>Greek State Scholarships Foundation (ΙΚΥ)</b>.
 
+<br>
+<h2><b>Miscellaneous</b></h2>
+<b>1\.</b> The paper 
+"<a href='../publication/5_Towards_a_theoretically_informed'>Towards a 
+theoretically informed policy against a rakghoul plague outbreak</a>" 
+won the third place in the 2017 Christmas Competition of the 
+Medical Journal of Australia. 
+\[[<span class="underline-on-hover" style="color:#FF6F6F">Issue</span>](https://www.mja.com.au/journal/2017/207/11)\]
+

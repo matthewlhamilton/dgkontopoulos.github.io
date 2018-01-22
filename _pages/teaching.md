@@ -9,13 +9,13 @@ redirect_from:
 <br>
 <h2><b>Course Demonstration</b></h2>
 
-<b>5\. Intro to UNIX and Linux</b>, "Computational Methods in Ecology 
+<b>5\. Further Topics in Statistics</b>, MSc "Ecology, Evolution and 
+Conservation", Imperial College London, 2015, 2016, 2017, 2018.
+
+<b>4\. Intro to UNIX and Linux</b>, "Computational Methods in Ecology 
 and Evolution" MSc/MRes programmes and "Quantitative and Modelling 
 Skills in Ecology and Evolution" Centre for Doctoral Training, Imperial College 
 London, 2017.
-
-<b>4\. Further Topics in Statistics</b>, MSc "Ecology, Evolution and 
-Conservation", Imperial College London, 2015, 2016, 2017.
 
 <b>3\. Statistics</b>, BSc "Biological Sciences", year 1, Imperial 
 College London, 2014, 2015.
