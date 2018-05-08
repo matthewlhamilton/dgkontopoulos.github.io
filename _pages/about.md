@@ -12,4 +12,3 @@ redirect_from:
 <font size = "3.5">
 Hello there! 
 </font>
-</center>
