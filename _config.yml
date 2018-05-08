@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dimitrios - Georgios Kontopoulos"
+title                    : "Matt Hamilton"
 title_separator          : "-"
-name                     : &name "Dimitrios - Georgios Kontopoulos"
+name                     : &name "Matt Hamilton"
 description              : &description "personal description"
 url                      : https://matthewlhamilton.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -78,13 +78,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dimitrios - Georgios Kontopoulos"
+  name             : "Matt Hamilton"
   avatar           : "avatar.jpg"
-  bio              : "TEST 3rd year PhD student at Imperial College London, investigating the <b>limits to thermal adaptation in ectotherms</b>. Will be looking for a postdoc position in mid-2019."
-  location         : "Department of Life Sciences, <br>Imperial College London, Silwood<br>Park, Ascot, United Kingdom"
+  bio              : "bio..............."
+  location         : "Location........................."
   employer         :
-  googlescholar    : "https://scholar.google.gr/citations?user=HhRasxEAAAAJ&hl"
-  email            : "d.kontopoulos13[AT]imperial[DOT]ac[DOT]uk"
+  googlescholar    : "GScholar..................."
+  email            : "emial........................."
   uri              :
   bitbucket        :
   codepen          :
@@ -92,19 +92,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "dgkontopoulos"
+  github           : "matthewlhamilton"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/0000-0002-5082-1929"
+  orcid            : "orc................"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "DGKontopoulos"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
