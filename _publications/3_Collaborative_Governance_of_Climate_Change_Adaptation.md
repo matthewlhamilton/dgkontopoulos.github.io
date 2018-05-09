@@ -1,12 +1,11 @@
 ---
 title: "<b>1\\.</b> 
-<u>Kontopoulos, D.-G.</u>, and Glykos, N.M.<sup><a title='Corresponding author'>✉</a></sup> (2013). **Pinda: A Web service for detection XXXXXXXXXXXXXXXXXXXXXXXXXXXxx of intraspecies gene duplication events.** Computer Methods 
-and Programs in Biomedicine 111(3):711-714."
+<u>Hamilton, M.</u>, and M. Lubell.(2017). **Collaborative Governance of Climate Change Adaptation Across Spatial and Institutional Scales.** Policy Studies Journal."
 collection: publications
-permalink: /publication/1_Pinda_A_Web_service_for_detection
+permalink: /publication/3_Collaborative_Governance_of_Climate_Change_Adaptation
 excerpt: '
-  [<span class="underline-on-hover" style="color:#FF6F6F">Abstract</span>](../publication/1_Pinda_A_Web_service_for_detection)
-\| [<span class="underline-on-hover" style="color:#FF6F6F">Full text</span>](http://www.sciencedirect.com/science/article/pii/S0169260713001788)
+  [<span class="underline-on-hover" style="color:#FF6F6F">Abstract</span>](../publication/3_Collaborative_Governance_of_Climate_Change_Adaptation)
+\| [<span class="underline-on-hover" style="color:#FF6F6F">Full text</span>](https://onlinelibrary.wiley.com/doi/full/10.1111/psj.12224)
 \| [<span class="underline-on-hover" style="color:#FF6F6F">Website</span>](http://orion.mbg.duth.gr/Pinda/)
 \| [<span class="underline-on-hover" style="color:#FF6F6F">Source code</span>](https://github.com/dgkontopoulos/Pinda/)
 \| [<span class="underline-on-hover" style="color:#FF6F6F"><img src="../images/bibtex.svg">citation</span>](../bibtex/1_Pinda.bib)
