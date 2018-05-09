@@ -10,7 +10,7 @@ Climate change adaptation in East Africa; Wildfire risk mitigation in the Easter
 
 Recent projects
 
-## Mental models of wildfire risk
+# Mental models of wildfire risk
 
 Wildfires burn large areas of forestland each year throughout Oregon’s Eastern Cascades, threatening human health and safety, local economies, and numerous ecosystem services. 
 Because wildfire can spread across property boundaries and generate other effects at the region-level, responses require collective action: coordination to exchange information necessary for developing responses to increasingly hazardous conditions as well as cooperation to implement risk mitigation activities across multiple private properties or administrative jurisdictions. 
