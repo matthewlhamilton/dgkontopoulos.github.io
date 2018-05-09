@@ -27,20 +27,6 @@ these should improve our ability to predict the impacts of climate change
 on biological systems.
 </font><br><br>
 
-<font size="2.5">
-<b>Relevant skills:</b><br>
-Fitting thermal response curves, phylogeny reconstruction and 
-chronogram estimation, phylogenetic comparative methods, 
-machine learning, some experience in fitting multivariate mixed-effects models, 
-some experience in handling datasets of environmental variables, 
-basic experience in mathematical modelling.
-
-<br><br>
-<b>Relevant publications:</b><br>
-* <a href='../publication/6_Use_and_misuse_of_temperature' 
-style="color:#FF6F6F">Use and misuse of temperature normalisation in 
-meta-analyses of thermal responses of biological traits.</a>
-</font>
 </div>
 <img src="../images/evo_thermal_bio.png" style = "max-width:30vw">
 </div>
