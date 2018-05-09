@@ -1,7 +1,6 @@
 ---
 title: "<b>1\\.</b> 
-<u>Kontopoulos, D.-G.</u>, and Glykos, N.M.<sup><a title='Corresponding author'>✉</a></sup> (2013). **Pinda: A Web service for detection 
-and analysis of intraspecies gene duplication events.** Computer Methods 
+<u>Kontopoulos, D.-G.</u>, and Glykos, N.M.<sup><a title='Corresponding author'>✉</a></sup> (2013). **Pinda: A Web service for detection XXXXXXXXXXXXXXXXXXXXXXXXXXXxx of intraspecies gene duplication events.** Computer Methods 
 and Programs in Biomedicine 111(3):711-714."
 collection: publications
 permalink: /publication/1_Pinda_A_Web_service_for_detection
