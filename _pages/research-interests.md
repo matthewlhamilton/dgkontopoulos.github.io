@@ -6,14 +6,9 @@ redirect_from:
   - /research-interests
 ---
 
-<p align = "right">
-<font size = "2">
-&#10077;<b><i>Nothing in biology makes sense except in the light of evolution.</i></b>&#10078;
-<br>Theodosius Dobzhansky, <i>American Biology Teacher</i>, 1973<br><br>
-</font></p>
 
 <font size = "3">
-My research interests can be mainly (but not exclusively!) grouped into the three following categories:
+My goals in research are to advance understanding of (1) how environmental policy outcomes reflect patterns of interactions within communities of policy actors, as well as (2) how environmental policy actors behave in response to different sets of constraints and opportunities that characterize policy arenas. I draw upon the Institutional Analysis and Development framework, the Ecology of Games framework and theories of network science to contribute to interdisciplinary fields such as collaborative environmental governance, social-ecological systems dynamics and sustainability science. Key methodological approaches include traditional econometric modeling, inferential network analysis and spatial analysis.
 </font>
 
 <h2><b>Evolutionary thermal biology</b></h2>
