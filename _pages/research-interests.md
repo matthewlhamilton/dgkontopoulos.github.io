@@ -21,5 +21,5 @@ The project is also mapping relationships among these groups of people to improv
 </font>
 
 <div>
-<img src="../images/firementalmodel.png" style = "max-width:60vw">
+<img src="../images/firementalmodel.png" style = "max-width:45vw">
 </div>
