@@ -1,9 +1,6 @@
 ---
 title: "<b>2\\.</b> 
-Vlachakis, D., <u>Kontopoulos, D.G.</u>, and Kossida, S.<sup><a title='Corresponding author'>✉</a></sup>
-(2013). **Space Constrained Homology Modelling: The Paradigm of the
-RNA-Dependent RNA Polymerase of Dengue (Type II) Virus.** Computational 
-and Mathematical Methods in Medicine 2013:108910. <img src='../images/open_access.png'>"
+Lubell, M. N., Cutts, B. B., Roche, L. M., <u>Hamilton, M.</u>, Derner, J. D., Kachergis, E., & Tate, K. W. (2013). **Conservation program participation and adaptive rangeland decision-making.** Rangeland Ecology and Management 66(6):609-620.
 collection: publications
 permalink: /publication/1_Conservation_program
 excerpt: '
