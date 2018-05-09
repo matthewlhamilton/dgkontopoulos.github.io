@@ -18,8 +18,8 @@ Wildfires burn large areas of forestland each year throughout Oregon’s Eastern
 Because wildfire can spread across property boundaries and generate other effects at the region-level, responses require collective action: coordination to exchange information necessary for developing responses to increasingly hazardous conditions as well as cooperation to implement risk mitigation activities across multiple private properties or administrative jurisdictions. 
 This project explores how diverse groups of people (forest owners, representatives of environmental groups, ranchers, fire department chiefs, members of the timber industry, representatives of federal and state agencies) conceptualize wildfire risk. 
 The project is also mapping relationships among these groups of people to improve understanding of how patterns of social interaction relate to cognition of wildfire risk. 
-</font><br><br>
+</font>
 
 <div>
-<img src="../images/firementalmodel.png" style = "max-width:30vw">
+<img src="../images/firementalmodel.png" style = "max-width:60vw">
 </div>
