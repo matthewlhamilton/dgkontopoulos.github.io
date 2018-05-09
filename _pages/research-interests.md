@@ -21,6 +21,6 @@ This project explores how diverse groups of people (forest owners, representativ
 The project is also mapping relationships among these groups of people to improve understanding of how patterns of social interaction relate to cognition of wildfire risk. 
 </font><br><br>
 
-</div>
+<div>
 <img src="../images/firementalmodel.png" style = "max-width:30vw">
 </div>
