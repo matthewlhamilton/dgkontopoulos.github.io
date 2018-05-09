@@ -8,25 +8,20 @@ redirect_from:
 
 
 <font size = "3">
-My goals in research are to advance understanding of (1) how environmental policy outcomes reflect patterns of interactions within communities of policy actors, as well as (2) how environmental policy actors behave in response to different sets of constraints and opportunities that characterize policy arenas. I draw upon the Institutional Analysis and Development framework, the Ecology of Games framework and theories of network science to contribute to interdisciplinary fields such as collaborative environmental governance, social-ecological systems dynamics and sustainability science. Key methodological approaches include traditional econometric modeling, inferential network analysis and spatial analysis.
+Climate change adaptation in East Africa; Wildfire risk mitigation in the Eastern Cascades; Behavioral adaptation to environmental change; Brokerage in environmental policy networks; Coupled social and ecological networks. I study how people work together to solve environmental problems. Recent projects
 </font>
 
-<h2><b>Evolutionary thermal biology</b></h2>
+<h2><b>Mental models of wildfire risk</b></h2>
 <div style = "display:flex; align-items:center;">
 <div style="text-align: justify;">
 
 <font size = "3">
-Temperature is a major driver of the performance of physiological 
-and ecological traits (e.g., growth rate, escape body velocity) of all 
-organisms, but especially of ectotherms. It is becoming increasingly clear 
-that the shape of the thermal response curve (shown on the right) varies considerably 
-across different traits, species, or thermal environments. I am interested 
-in identifying processes that generate variation in the shape of the  
-response, and factors that constrain it. Understanding 
-these should improve our ability to predict the impacts of climate change 
-on biological systems.
+Wildfires burn large areas of forestland each year throughout Oregon’s Eastern Cascades, threatening human health and safety, local economies, and numerous ecosystem services. 
+Because wildfire can spread across property boundaries and generate other effects at the region-level, responses require collective action: coordination to exchange information necessary for developing responses to increasingly hazardous conditions as well as cooperation to implement risk mitigation activities across multiple private properties or administrative jurisdictions. 
+This project explores how diverse groups of people (forest owners, representatives of environmental groups, ranchers, fire department chiefs, members of the timber industry, representatives of federal and state agencies) conceptualize wildfire risk. 
+The project is also mapping relationships among these groups of people to improve understanding of how patterns of social interaction relate to cognition of wildfire risk. 
 </font><br><br>
 
 </div>
-<img src="../images/evo_thermal_bio.png" style = "max-width:30vw">
+<img src="../images/firementalmodel.png" style = "max-width:30vw">
 </div>
