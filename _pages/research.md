@@ -13,7 +13,7 @@ Climate change adaptation in East Africa; Wildfire risk mitigation in the Easter
 
 Recent projects
 
-<h2><b>Mental models of wildfire risk</b></h2>
+## Mental models of wildfire risk
 
 <font size = "3">
 Wildfires burn large areas of forestland each year throughout Oregon’s Eastern Cascades, threatening human health and safety, local economies, and numerous ecosystem services. 
