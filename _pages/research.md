@@ -1,9 +1,9 @@
 ---
-title: "<h1>Research interests</h1>"
-permalink: /research-interests/
+title: "<h1>Research</h1>"
+permalink: /research/
 author_profile: true
 redirect_from: 
-  - /research-interests
+  - /research
 ---
 
 
