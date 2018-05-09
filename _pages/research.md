@@ -8,8 +8,12 @@ redirect_from:
 
 
 <font size = "3">
-Climate change adaptation in East Africa; Wildfire risk mitigation in the Eastern Cascades; Behavioral adaptation to environmental change; Brokerage in environmental policy networks; Coupled social and ecological networks. I study how people work together to solve environmental problems. Recent projects <a href='https://www.dropbox.com/s/aovm8pqlzpefymo/Matthew%20Hamilton%20CV.pdf?dl=0'>CV</a>
+Climate change adaptation in East Africa; Wildfire risk mitigation in the Eastern Cascades; Behavioral adaptation to environmental change; Brokerage in environmental policy networks; Coupled social and ecological networks. I study how people work together to solve environmental problems. <a href='https://www.dropbox.com/s/aovm8pqlzpefymo/Matthew%20Hamilton%20CV.pdf?dl=0'>CV</a>
 </font>
+
+<b>
+  Recent projects
+</b>
 
 <h2><b>Mental models of wildfire risk</b></h2>
 
