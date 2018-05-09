@@ -4,7 +4,7 @@ Lubell, M. N., Cutts, B. B., Roche, L. M., <u>Hamilton, M.</u>, Derner, J. D., K
 collection: publications
 permalink: /publication/1_Conservation_program_participation.md
 excerpt: '
-  [<span class="underline-on-hover" style="color:#FF6F6F">Abstract</span>](../publication/4_Structuprint)
+  [<span class="underline-on-hover" style="color:#FF6F6F">Abstract</span>](../publication/1_Conservation_program_participation)
 \| [<span class="underline-on-hover" style="color:#FF6F6F">Full text</span>](http://www.bioone.org/doi/abs/10.2111/rem-d-13-00025.1)
 '
 ---
