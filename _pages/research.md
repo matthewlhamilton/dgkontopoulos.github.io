@@ -17,6 +17,4 @@ Because wildfire can spread across property boundaries and generate other effect
 This project explores how diverse groups of people (forest owners, representatives of environmental groups, ranchers, fire department chiefs, members of the timber industry, representatives of federal and state agencies) conceptualize wildfire risk. 
 The project is also mapping relationships among these groups of people to improve understanding of how patterns of social interaction relate to cognition of wildfire risk. 
 
-<div>
 <img src="../images/firemmodel.png" style = "max-width:45vw">
-</div>
