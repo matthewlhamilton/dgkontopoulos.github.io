@@ -1,21 +1,13 @@
 ---
 title: "<b>6\\.</b> 
-<u>Kontopoulos, D.-G.<sup><a title='Corresponding author'>✉</a></sup></u>, 
-García-Carreras, B., Sal, S., Smith, T.P., and Pawar, S. 
-(2018). **Use and misuse of temperature normalisation in meta-analyses 
-of thermal responses of biological traits.** 
-PeerJ 6:e4363. <img src='../images/open_access.png'>"
+Farzan, S., D. J. Young, A. G. Dedrick, <u>M. Hamilton</u>, E. C. Porse, P.S. Coates, & G. Sampson. (2015). **Western juniper management: assessing strategies for improving greater sage-grouse habitat and rangeland productivity.** Environmental management, 56(3), 675-683. <img src='../images/open_access.png'>"
 collection: publications
-permalink: /publication/6_Use_and_misuse_of_temperature
+permalink: /publication/2_western_juniper
 excerpt: '
-  [<span class="underline-on-hover" style="color:#FF6F6F">Abstract</span>](../publication/6_Use_and_misuse_of_temperature)
-\| [<span class="underline-on-hover" style="color:#FF6F6F">Full text</span>](https://peerj.com/articles/4363/)
-\| [<span class="underline-on-hover" style="color:#FF6F6F">Source code</span>](https://github.com/dgkontopoulos/Kontopoulos_et_al_temperature_normalisation_2017)
-\| [<span class="underline-on-hover" style="color:#FF6F6F"><img src="../images/bibtex.svg">citation</span>](../bibtex/6_Use_and_misuse_of_temperature.bib)
+  [<span class="underline-on-hover" style="color:#FF6F6F">Abstract</span>](../publication/2_western_juniper)
+\| [<span class="underline-on-hover" style="color:#FF6F6F">Full text</span>](https://link.springer.com/article/10.1007/s00267-015-0521-1)
 '
 ---
-
-<br><center><img src="../images/publications/B0_paper.png"></center>
 
 ### Abstract:
 
@@ -42,6 +34,4 @@ meta-analyses of thermal performance across species in climate change
 impact studies.
 </p>
 
-[<span class="underline-on-hover" style="color:#FF6F6F">Full text</span>](https://peerj.com/articles/4363/)
-\| [<span class="underline-on-hover" style="color:#FF6F6F">Source code</span>](https://github.com/dgkontopoulos/Kontopoulos_et_al_temperature_normalisation_2017)
-\| [<span class="underline-on-hover" style="color:#FF6F6F"><img src="../images/bibtex.svg">citation</span>](../bibtex/6_Use_and_misuse_of_temperature.bib)
+[<span class="underline-on-hover" style="color:#FF6F6F">Full text</span>](https://link.springer.com/article/10.1007/s00267-015-0521-1)
