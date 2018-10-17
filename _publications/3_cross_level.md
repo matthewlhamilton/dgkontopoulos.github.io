@@ -1,21 +1,14 @@
 ---
 title: "<b>3\\.</b> 
-Kontopoulou, T.<sup><a title='Equal contribution'>†</a>,<a title='Corresponding author'>✉</a></sup>, 
-<u>Kontopoulos, D.G.<sup><a title='Equal contribution'>†</a></sup></u>, 
-Vaidakis, E., and Mousoulis, G.P. (2015). **Adult Kawasaki disease 
-in a European patient: a case report and review of the literature.** Journal 
-of Medical Case Reports 9:75. <img src='../images/open_access.png'>"
+Hamilton, M., M. Lubell, and E. Namaganda. (2018). **Cross-level linkages in an ecology of climate change adaptation policy games.** Ecology and Society 23:2. <img src='../images/open_access.png'>"
 collection: publications
 permalink: /publication/3_Adult_Kawasaki_disease
 excerpt: '
-  [<span class="underline-on-hover" style="color:#FF6F6F">Abstract</span>](../publication/3_Adult_Kawasaki_disease)
-\| [<span class="underline-on-hover" style="color:#FF6F6F">Full text</span>](https://jmedicalcasereports.biomedcentral.com/articles/10.1186/s13256-015-0516-9)
-\| [<span class="underline-on-hover" style="color:#FF6F6F">Dataset</span>](https://figshare.com/articles/Clinico_laboratory_values_of_an_adult_patient_with_Kawasaki_disease_in_Europe/1080767)
-\| [<span class="underline-on-hover" style="color:#FF6F6F"><img src="../images/bibtex.svg">citation</span>](../bibtex/3_Kawasaki.bib)
+  [<span class="underline-on-hover" style="color:#FF6F6F">Abstract</span>](../publication/3_cross_level)
+\| [<span class="underline-on-hover" style="color:#FF6F6F">Full text</span>](https://www.ecologyandsociety.org/vol23/iss2/art36/)
 '
 ---
 
-<br><center><img src="../images/publications/kawasaki_figure.jpg"></center>
 
 ### Abstract:
 
