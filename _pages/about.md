@@ -10,7 +10,7 @@ redirect_from:
 <div style="text-align: left;">
 
 <font size = "3.5">
-My research improves understanding of human-environment interactions in complex institutional settings, in which patterns of interactions among individual people, organizations, and decision-making processes influence the performance of environmental institutions, which in turn shape environmental outcomes. 
+I do research on human-environment interactions in complex institutional settings, in which patterns of interactions among individual people, organizations, and decision-making processes influence the performance of environmental institutions, which in turn shape environmental outcomes. 
 <br><br>
 
 I explore questions such as: under what conditions can decision-making processes promote collaborative problem-solving at different administrative, spatial, and temporal scales? What factors shape the use of science in environmental decision-making? Under what conditions can biophysical connectivity (e.g., transmission of wildfire from one forested area to another) facilitate or impede collaborative interactions among resource users and other stakeholders? How can policy-makers constructively address conflict that stems from diverse perspectives on the factors that contribute to long-standing environmental governance challenges? 
