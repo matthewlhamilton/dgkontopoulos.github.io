@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<div style="text-align: justify;">
+<div style="text-align: left;">
 
 <font size = "3.5">
 My research improves understanding of human-environment interactions in complex institutional settings, in which patterns of interactions among individual people, organizations, and decision-making processes influence the performance of environmental institutions, which in turn shape environmental outcomes. 
