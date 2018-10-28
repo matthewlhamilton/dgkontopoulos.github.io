@@ -16,7 +16,7 @@ My research improves understanding of human-environment interactions in complex 
 I explore questions such as: under what conditions can decision-making processes promote collaborative problem-solving at different administrative, spatial, and temporal scales? What factors shape the use of science in environmental decision-making? Under what conditions can biophysical connectivity (e.g., transmission of wildfire from one forested area to another) facilitate or impede collaborative interactions among resource users and other stakeholders? How can policy-makers constructively address conflict that stems from diverse perspectives on the factors that contribute to long-standing environmental governance challenges? 
 <br><br>
 
-XXXIn this work, I draw upon tools and perspectives from policy, psychological, and environmental sciences, and I collaborative extensively with colleagues from diverse social and natural science backgrounds. My research also involves partnerships with natural resource management practitioners, extensionists, and members of other environmental stakeholder groups. 
+In this work, I draw upon tools and perspectives from policy, psychological, and environmental sciences, and I collaborative extensively with colleagues from diverse social and natural science backgrounds. My research also involves partnerships with natural resource management practitioners, extensionists, and members of other environmental stakeholder groups. 
 
 </font>
 
