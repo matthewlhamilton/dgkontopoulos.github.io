@@ -18,7 +18,7 @@ In this work, I draw upon tools and perspectives from policy, psychological, and
 
 </font>
 
-<!DOCTYPE html>
+{::nomarkdown}
 <html>
 <head>
 <meta charset="utf-8" />
@@ -37,4 +37,6 @@ In this work, I draw upon tools and perspectives from policy, psychological, and
 <script type="application/htmlwidget-sizing" data-for="htmlwidget-336b8f38d5d617a84ffd">{"viewer":{"width":450,"height":350,"padding":10,"fill":true},"browser":{"width":960,"height":500,"padding":10,"fill":true}}</script>
 </body>
 </html>
+
+{:/}
 
