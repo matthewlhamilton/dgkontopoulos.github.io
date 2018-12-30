@@ -4,7 +4,7 @@ title: "<b>7\\.</b>
 collection: publications
 permalink: /publication/7_procedural_fairness
 excerpt: '
-  [<span class="underline-on-hover" style="color:#FF6F6F">Abstract</span>](../publication/4_cross_level)
+  [<span class="underline-on-hover" style="color:#FF6F6F">Abstract</span>](../publication/7_procedural_fairness)
 \| [<span class="underline-on-hover" style="color:#FF6F6F">Full text</span>](https://www.ecologyandsociety.org/vol23/iss4/art48/)
 '
 ---
