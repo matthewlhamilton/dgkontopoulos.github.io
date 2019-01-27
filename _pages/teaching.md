@@ -6,28 +6,12 @@ redirect_from:
   - /teaching
 ---
 
-<br>
-<h2><b>Course Demonstration</b></h2>
+<h2><b>ENR 3200: Environmental and Natural Resources Policy</b></h2>
 
-<b>5\. Further Topics in Statistics</b>, MSc "Ecology, Evolution and 
-Conservation", Imperial College London, 2015, 2016, 2017, 2018.
-
-<b>4\. Intro to UNIX and Linux</b>, "Computational Methods in Ecology 
-and Evolution" MSc/MRes programmes and "Quantitative and Modelling 
-Skills in Ecology and Evolution" Centre for Doctoral Training, Imperial College 
-London, 2017.
-
-<b>3\. Statistics</b>, BSc "Biological Sciences", year 1, Imperial 
-College London, 2014, 2015.
-
-<b>2\. Biological Computing in Python II</b>, MSc/MRes "Computational 
-Methods in Ecology and Evolution", Imperial College London, 2014.
-
-<b>1\. Computational Biostatistics</b>, BSc "Biological Sciences", year 2, 
-Imperial College London, 2014.
+ENR 3200 is designed to provide a broad introduction to the institutions and processes that shape environmental and natural resources policy. At its core, this course focuses on the relationships between societies and their biophysical environments. While students learn about key environmental laws and the responsibilities of different federal institutions, we also discuss how policy processes are shaped by values, science, history, and relationships among stakeholder groups. Though perhaps not a learning objective, a key goal of this course is that students appreciate the diverse and dynamic settings in which environmental and natural resources policy processes play out, and consequently understand how these processes are relevant to their daily lives as well as their future careers. More specifically, by the end of the semester, students become familiar with key concepts in environmental and natural resources policy (and how those concepts relate to one another). Students also gain skills that enable them to analyze and understand policy processes and outcomes (for example: How are the costs and benefits of an environmental policy distributed among different groups of people? Why were they distributed that way?).
 
 <br>
-<h2><b>Others</b></h2>
 
-<b>1\. Tutor</b> for the "Computational Methods in Ecology and Evolution" 
-MSc/MRes programmes, Imperial College London, 2014-15.
+<h2><b>ENR 4900.01 Environment and Natural Resources Management: Capstone Experience</b></h2>
+
+In this section of 4900.01, students will gain hands-on experience contributing to multi-stakeholder decision-making processes. When diverse groups of people are involved in decisions about environmental policy (for example, how to manage a park, or how to respond to a new invasive species), they often bring different values and goals to the table. Understanding these values and goals is often crucial making a good decision, or for making a decision at all, and this capstone section will focus on how to facilitate collaborative decision-making processes through approaches such as participatory mapping, value mapping, and outreach informed by stakeholder analysis. Specifically, students—in interdisciplinary teams—will gain experience applying these approaches in real environmental decision-making settings. Teams will then develop a set of recommendations designed to improve the specific decision-making at hand. In the process, they will gain skills and training relevant to diverse careers such as environmental consulting, conflict mediation, and facilitation.
