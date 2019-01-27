@@ -18,6 +18,11 @@ Wildfires burn large areas of forestland each year throughout Oregon’s Eastern
 
 ---
 
-# Mental models of wildfire risk
+# Policy networks and climate change adaptation in the Lake Victoria region
 
-Wildfires burn large areas of forestland each year throughout Oregon’s Eastern Cascades, threatening human health and safety, local economies, and numerous ecosystem services. Because wildfire can spread across property boundaries and generate other effects at the region-level, responses require collective action: coordination to exchange information necessary for developing responses to increasingly hazardous conditions as well as cooperation to implement risk mitigation activities across multiple private properties or administrative jurisdictions. This project explores how diverse groups of people (forest owners, representatives of environmental groups, ranchers, fire department chiefs, members of the timber industry, representatives of federal and state agencies) conceptualize wildfire risk. The project is also mapping relationships among these groups of people to improve understanding of how patterns of social interaction relate to cognition of wildfire risk. 
+The project seeks to improve understanding of the role of institutions in developing adaptive capacity to the near-term effects of climate change in the Lake Victoria region of East Africa. Key adaptive capacity issues in the Lake Victoria region include disruptions to agricultural productivity, altered flood regimes, threats to the viability of fisheries, and shifts in plant and animal habitat suitability. Within the past few decades, numerous collaborative institutions have emerged to help address these adaptive capacity issues. Our study of how these institutions contribute to policy making and policy implementation draws upon recent applications of game theory to test predictions about organizational behavior within institutional networks, as well as resilience theory to test predictions about the role of institutional arrangements in creating and maintaining adaptive capacity.
+
+<img src="../images/kidsonlake_lowres.jpg" style = "max-width:45vw">
+
+
+
