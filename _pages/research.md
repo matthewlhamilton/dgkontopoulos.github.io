@@ -6,7 +6,7 @@ redirect_from:
   - /research
 ---
 
-I study how people work together to solve environmental problems. Research interests include climate change adaptation in East Africa; wildfire risk mitigation in the Eastern Cascades; behavioral adaptation to environmental change; brokerage in environmental policy networks; and coupled social and ecological networks. <a href='https://www.dropbox.com/s/aovm8pqlzpefymo/Matthew%20Hamilton%20CV.pdf?dl=0'>CV</a>
+I study how people work together to solve environmental problems. Research interests include climate change adaptation in East Africa, wildfire risk mitigation in the Eastern Cascades, behavioral adaptation to environmental change, brokerage in environmental policy networks, and coupled social and ecological networks. <a href='https://www.dropbox.com/s/aovm8pqlzpefymo/Matthew%20Hamilton%20CV.pdf?dl=0'>CV</a>
 
 Recent projects:
 
