@@ -1,10 +1,10 @@
 ---
-title: "<b>6\\.</b> 
+title: "<b>7\\.</b> 
 <u>Hamilton, M.</u>, Fischer, A.P., Ager, A. (2019). **A social-ecological network approach for understanding wildfire risk governance.** Global Environmental Change 54:113-123."
 collection: publications
-permalink: /publication/6_social-ecological
+permalink: /publication/7_social-ecological
 excerpt: '
-  [<span class="underline-on-hover" style="color:#FF6F6F">Abstract</span>](../publication/6_social-ecological)
+  [<span class="underline-on-hover" style="color:#FF6F6F">Abstract</span>](../publication/7_social-ecological)
 \| [<span class="underline-on-hover" style="color:#FF6F6F">Full text</span>](https://www.sciencedirect.com/science/article/pii/S0959378017312232)
 '
 ---
