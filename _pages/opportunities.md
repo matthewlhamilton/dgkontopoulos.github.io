@@ -15,7 +15,7 @@ I’ll be accepting 1-2 graduate students to begin working with me in 2020. If y
 3. Your current CV/resume
 4. GRE percentiles (if available)
 
-I especially welcome inquiries from students who have already done some work “in the field” (e.g., in environmental consulting, international development). Likewise, a solid foundation in natural sciences will be a big asset. 
+I particularly welcome inquiries from students who have already done some work “in the field” (e.g., in environmental consulting, international development). Likewise, students with a solid natural sciences background are especially encouraged to reach out. 
 
 For more information on admissions and other details on graduate study in the School of Environment and Natural Resources, please visit https://senr.osu.edu/graduate.
 
