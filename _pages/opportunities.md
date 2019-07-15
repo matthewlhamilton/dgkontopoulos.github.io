@@ -8,7 +8,7 @@ redirect_from:
 
 <h2><b>Prospective Graduate Students</b></h2>
 
-I’ll be accepting graduate students during this upcoming (2019) admissions cycle. If you are interested in working with me, please send me an email with:
+I will be accepting graduate students during this upcoming (2019) admissions cycle. If you are interested in working with me, please send me an email with:
 
 1. An overview of your research/professional experiences.
 2. A detailed description of your research interests. Please be as specific as possible—your goals will certainly change over time, but the more details you can provide the better we can figure out if I might be a good fit for you. 
