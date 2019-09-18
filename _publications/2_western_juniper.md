@@ -1,10 +1,10 @@
 ---
-title: "<b>2\\.</b> 
+title: "<b>02\\.</b> 
 Farzan, S., Young, D.J.N., Dedrick, A.G., <u>Hamilton, M.</u>, Porse, E.C., Coates, P.S., Sampson, G., 2015. **Western Juniper Management: Assessing Strategies for Improving Greater Sage-grouse Habitat and Rangeland Productivity**. Environ. Manage. 56, 675–683. https://doi.org/10.1007/s00267-015-0521-1. <img src='../images/open_access.png'>"
 collection: publications
-permalink: /publication/02_western_juniper
+permalink: /publication/2_western_juniper
 excerpt: '
-  [<span class="underline-on-hover" style="color:#FF6F6F">Abstract</span>](../publication/02_western_juniper)
+  [<span class="underline-on-hover" style="color:#FF6F6F">Abstract</span>](../publication/2_western_juniper)
 \| [<span class="underline-on-hover" style="color:#FF6F6F">Full text</span>](https://link.springer.com/article/10.1007/s00267-015-0521-1)
 '
 ---
