@@ -2,9 +2,9 @@
 title: "<b>1\\.</b> 
 Lubell, M.N., Cutts, B.B., Roche, L.M., <u>Hamilton, M.</u>, Derner, J.D., Kachergis, E., Tate, K.W., 2013. **Conservation Program Participation and Adaptive Rangeland Decision-Making**. Rangel. Ecol. Manag. 66, 609–620. https://doi.org/10.2111/REM-D-13-00025.1"
 collection: publications
-permalink: /publication/1_conservation_program_participation
+permalink: /publication/01_conservation_program_participation
 excerpt: '
-  [<span class="underline-on-hover" style="color:#FF6F6F">Abstract</span>](../publication/1_conservation_program_participation)
+  [<span class="underline-on-hover" style="color:#FF6F6F">Abstract</span>](../publication/01_conservation_program_participation)
 \| [<span class="underline-on-hover" style="color:#FF6F6F">Full text</span>](http://www.bioone.org/doi/abs/10.2111/rem-d-13-00025.1)
 '
 ---
