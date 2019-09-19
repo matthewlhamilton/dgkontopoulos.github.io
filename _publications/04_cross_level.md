@@ -1,10 +1,10 @@
 ---
-title: "<b>4\\.</b> 
+title: "<b>04\\.</b> 
 <u>Hamilton, M.</u>, M. Lubell, and E. Namaganda. (2018). **Cross-level linkages in an ecology of climate change adaptation policy games.** Ecology and Society 23(2):36. <img src='../images/open_access.png'>"
 collection: publications
-permalink: /publication/4_cross_level
+permalink: /publication/04_cross_level
 excerpt: '
-  [<span class="underline-on-hover" style="color:#FF6F6F">Abstract</span>](../publication/4_cross_level)
+  [<span class="underline-on-hover" style="color:#FF6F6F">Abstract</span>](../publication/04_cross_level)
 \| [<span class="underline-on-hover" style="color:#FF6F6F">Full text</span>](https://www.ecologyandsociety.org/vol23/iss2/art36/)
 '
 ---
