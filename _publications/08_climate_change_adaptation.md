@@ -1,10 +1,10 @@
 ---
-title: "<b>8\\.</b> 
+title: "<b>08\\.</b> 
 <u>Hamilton, M.</u>, Lubell, M. (2019). **Climate change adaptation, social capital, and the performance of polycentric governance institutions.** Climatic Change."
 collection: publications
-permalink: /publication/8_climate_change_adaptation
+permalink: /publication/08_climate_change_adaptation
 excerpt: '
-  [<span class="underline-on-hover" style="color:#FF6F6F">Abstract</span>](../publication/8_climate_change_adaptation)
+  [<span class="underline-on-hover" style="color:#FF6F6F">Abstract</span>](../publication/08_climate_change_adaptation)
 \| [<span class="underline-on-hover" style="color:#FF6F6F">Full text</span>](https://link.springer.com/article/10.1007/s10584-019-02380-2)
 '
 ---
