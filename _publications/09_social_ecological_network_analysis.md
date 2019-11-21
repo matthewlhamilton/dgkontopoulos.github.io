@@ -1,6 +1,6 @@
 ---
 title: "<b>09\\.</b> 
-Sayles, J., M. M. Garcia, <u>M. Hamilton</u>, S. Alexander, J. Baggio, A. P. Fischer, K. Ingold, G. Meredith and J. Pittman. (2019). **Social-ecological network analysis for sustainability sciences: a systematic review and innovative research agenda for the future.** Environmental Research Letters. doi:10.1088/1748-9326/ab2619. <img src='../images/open_access.png'>"
+Sayles, J., M.M. Garcia, <u>M. Hamilton</u>, S. Alexander, J. Baggio, A.P. Fischer, K. Ingold, G. Meredith, and J. Pittman. 2019. **Social-ecological network analysis for sustainability sciences: a systematic review and innovative research agenda for the future.** Environmental Research Letters. 14:093003. <img src='../images/open_access.png'>"
 collection: publications
 permalink: /publication/09_social_ecological_network_analysis
 excerpt: '
