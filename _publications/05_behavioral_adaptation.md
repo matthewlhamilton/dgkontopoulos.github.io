@@ -1,6 +1,6 @@
 ---
 title: "<b>05\\.</b> 
-<u>Hamilton, M.</u>, Fischer, A.P., Guikema, S.D. and Keppel‐Aleks, G. (2018). **Behavioral adaptation to climate change in wildfire‐prone forests.** Wiley Interdisciplinary Reviews: Climate Change 9(6):e553."
+<u>Hamilton, M.</u>, A.P. Fischer, S.D. Guikema, and G. Keppel‐Aleks. 2018. **Behavioral adaptation to climate change in wildfire‐prone forests.** Wiley Interdisciplinary Reviews: Climate Change 9(6):e553."
 collection: publications
 permalink: /publication/05_behavioral_adaptation
 excerpt: '
