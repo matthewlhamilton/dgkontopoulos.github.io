@@ -1,6 +1,6 @@
 ---
 title: "<b>03\\.</b> 
-<u>Hamilton, M.</u>, and M. Lubell. (2018). **Collaborative Governance of Climate Change Adaptation Across Spatial and Institutional Scales.** Policy Studies Journal 46(2):222-247."
+<u>Hamilton, M.</u> and M. Lubell. 2018. **Collaborative Governance of Climate Change Adaptation Across Spatial and Institutional Scales.** Policy Studies Journal 46(2):222-247."
 collection: publications
 permalink: /publication/03_collaborative_governance
 excerpt: '
