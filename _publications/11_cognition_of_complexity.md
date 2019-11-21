@@ -1,6 +1,6 @@
 ---
 title: "<b>11\\.</b> 
-<u>Hamilton, M.</u>, J. Salerno and A.P. Fischer. (2019). **Cognition of complexity and trade-offs in a wildfire-prone social-ecological system.** Environmental Research Letters. doi:10.1088/1748-9326/ab59c1. <img src='../images/open_access.png'>"
+<u>Hamilton, M.</u>, J. Salerno, and A.P. Fischer. 2019. **Cognition of complexity and trade-offs in a wildfire-prone social-ecological system.** Environmental Research Letters. doi:10.1088/1748-9326/ab59c1. <img src='../images/open_access.png'>"
 collection: publications
 permalink: /publication/11_cognition_of_complexity
 excerpt: '
