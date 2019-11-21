@@ -1,6 +1,6 @@
 ---
 title: "<b>01\\.</b> 
-Lubell, M.N., B.B. Cutts, L.M. Roche, <u>M. Hamilton</u>, J.D. Derner, E. Kachergis, and K.W. Tate. 2013. **Conservation Program Participation and Adaptive Rangeland Decision-Making**. Rangel. Ecol. Manag. 66, 609–620."
+Lubell, M.N., B.B. Cutts, L.M. Roche, <u>M. Hamilton</u>, J.D. Derner, E. Kachergis, and K.W. Tate. 2013. **Conservation Program Participation and Adaptive Rangeland Decision-Making**. Rangeland Ecology and Management. 66(6):609–620."
 collection: publications
 permalink: /publication/01_conservation_program_participation
 excerpt: '
