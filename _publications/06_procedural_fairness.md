@@ -1,6 +1,6 @@
 ---
 title: "<b>06\\.</b> 
-<u>Hamilton, M.</u> (2018). **Understanding what shapes varying perceptions of the procedural fairness of transboundary environmental decision-making processes.** Ecology and Society 23(4):48. <img src='../images/open_access.png'>"
+<u>Hamilton, M.</u> 2018. **Understanding what shapes varying perceptions of the procedural fairness of transboundary environmental decision-making processes.** Ecology and Society 23(4):48. <img src='../images/open_access.png'>"
 collection: publications
 permalink: /publication/06_procedural_fairness
 excerpt: '
