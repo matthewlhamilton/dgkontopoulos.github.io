@@ -1,10 +1,10 @@
 ---
-title: "<b>10\\.</b> 
-<u>Hamilton, M.</u>, J. Hileman and Ö. Bodin. 2019. **Evaluating heterogeneous brokerage: New conceptual and methodological approaches and their application to multi-level environmental governance networks.** Social Networks. doi:10.1016/j.socnet.2019.08.002."
+title: "<b>11\\.</b> 
+<u>Hamilton, M.</u>, J. Hileman and Ö. Bodin. 2020. **Evaluating heterogeneous brokerage: New conceptual and methodological approaches and their application to multi-level environmental governance networks.** Social Networks. doi:10.1016/j.socnet.2019.08.002."
 collection: publications
-permalink: /publication/10_evaluating_heterogeneous_brokerage
+permalink: /publication/11_evaluating_heterogeneous_brokerage
 excerpt: '
-  [<span class="underline-on-hover" style="color:#FF6F6F">Abstract</span>](../publication/10_evaluating_heterogeneous_brokerage)
+  [<span class="underline-on-hover" style="color:#FF6F6F">Abstract</span>](../publication/11_evaluating_heterogeneous_brokerage)
 \| [<span class="underline-on-hover" style="color:#FF6F6F">Full text</span>](https://doi.org/10.1016/j.socnet.2019.08.002)
 '
 ---
