@@ -1,6 +1,6 @@
 ---
 title: "<b>13\\.</b> 
-<u>Hamilton, M.</u>, J. Salerno. 2020. **Cognitive maps reveal diverse perceptions of how prescribed fire affects forests and communities.** Frontiers in Forests and Global Change. 3, 75. <img src='../images/open_access.png'>""
+<u>Hamilton, M.</u>, J. Salerno. 2020. **Cognitive maps reveal diverse perceptions of how prescribed fire affects forests and communities.** Frontiers in Forests and Global Change. 3, 75. <img src='../images/open_access.png'>"
 collection: publications
 permalink: /publication/13_Cognitive maps reveal diverse perceptions
 excerpt: '
