@@ -6,7 +6,7 @@ redirect_from:
   - /opportunities
 ---
 
-<h2><b>PhD Graduate Research Assistantship in Collaborative Local Governance of Wildfire Risk</b></h2>
+## _NEW:_ PhD Graduate Research Assistantship in Collaborative Local Governance of Wildfire Risk
 
 The School of Environment and Natural Resources at The Ohio State University invites applications for a funded PhD position to support an interdisciplinary study on wildfire risk governance as part of the NSF-funded project “Cognitive, social, and institutional dynamics of decision-making in complex hazard-prone environments.” The PhD researcher will work primarily with Matt Hamilton and [Eric Toman](https://senr.osu.edu/our-people/eric-toman) at Ohio State, but will also engage with collaborators at Colorado State University ([Jon Salerno](https://sites.warnercnr.colostate.edu/jdsal/) and [Tony Cheng](https://cfri.colostate.edu/about-cfri/tony-cheng/)), the University of Michigan ([A. Paige Fischer](https://seas.umich.edu/research/faculty/alexandra-paige-fischer)), and Portland State University ([Max Nielsen-Pincus](https://sites.google.com/a/pdx.edu/maxnp)).  
 
