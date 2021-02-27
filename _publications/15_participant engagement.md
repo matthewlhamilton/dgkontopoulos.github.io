@@ -1,4 +1,3 @@
-Author links open overlay panelLorienJasnyaJesseSaylesiMatthewHamiltonbLauraRoldan GomezaDerricJacobscChristinaPrelldPetrMatouseEvaSchifferfAngela MGuererrogMichele LBarnesh
 ---
 title: "<b>15\\.</b> 
 Jasny, J., J. Sayles, <u>M. Hamilton</u>, L. Roldan Gomez, D. Jacobs, C. Prell, P. Matous, E. Schiffer, A. Guerrero, M. Barnes. 2020. **Participant engagement in environmentally focused social network research.** Social Networks. doi:10.1016/j.socnet.2021.01.005."
